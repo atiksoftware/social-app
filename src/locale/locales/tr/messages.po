@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/screens/Messages/List/ChatListItem.tsx:120
 msgid "(contains embedded content)"
-msgstr ""
+msgstr "(gömülü içerik içerir)"
 
 #: src/view/com/modals/VerifyEmail.tsx:150
 msgid "(no email)"
@@ -24,15 +24,15 @@ msgstr "(e-posta yok)"
 #: src/view/com/notifications/FeedItem.tsx:232
 #: src/view/com/notifications/FeedItem.tsx:323
 msgid "{0, plural, one {{formattedCount} other} other {{formattedCount} others}}"
-msgstr ""
+msgstr "{0, plural, one {{formattedCount} diğer} other {{formattedCount} diğer}}"
 
 #: src/lib/hooks/useTimeAgo.ts:156
 msgid "{0, plural, one {# day} other {# days}}"
-msgstr ""
+msgstr "{0, plural, one {# gün} other {# gün}}"
 
 #: src/lib/hooks/useTimeAgo.ts:146
 msgid "{0, plural, one {# hour} other {# hours}}"
-msgstr ""
+msgstr "{0, plural, one {# saat} other {# saat}}"
 
 #: src/view/shell/desktop/RightNav.tsx:168
 #~ msgid "{0, plural, one {# invite code available} other {# invite codes available}}"
@@ -40,182 +40,182 @@ msgstr ""
 
 #: src/components/moderation/LabelsOnMe.tsx:55
 #~ msgid "{0, plural, one {# label has been placed on this account} other {# labels has been placed on this account}}"
-#~ msgstr ""
+#~ msgstr "{0, plural, one {# etiket bu hesaba yerleştirildi} other {# etiket bu hesaba yerleştirildi}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:54
 msgid "{0, plural, one {# label has been placed on this account} other {# labels have been placed on this account}}"
-msgstr ""
+msgstr "{0, plural, one {# etiket bu hesaba yerleştirildi} other {# etiket bu hesaba yerleştirildi}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:61
 #~ msgid "{0, plural, one {# label has been placed on this content} other {# labels has been placed on this content}}"
-#~ msgstr ""
+#~ msgstr "{0, plural, one {# etiket bu içeriğe yerleştirildi} other {# etiket bu içeriğe yerleştirildi}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:60
 msgid "{0, plural, one {# label has been placed on this content} other {# labels have been placed on this content}}"
-msgstr ""
+msgstr "{0, plural, one {# etiket bu içeriğe yerleştirildi} other {# etiket bu içeriğe yerleştirildi}}"
 
 #: src/lib/hooks/useTimeAgo.ts:136
 msgid "{0, plural, one {# minute} other {# minutes}}"
-msgstr ""
+msgstr "{0, plural, one {# dakika} other {# dakika}}"
 
 #: src/lib/hooks/useTimeAgo.ts:167
 msgid "{0, plural, one {# month} other {# months}}"
-msgstr ""
+msgstr "{0, plural, one {# ay} other {# ay}}"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:71
 msgid "{0, plural, one {# repost} other {# reposts}}"
-msgstr ""
+msgstr "{0, plural, one {# yeniden paylaşım} other {# yeniden paylaşım}}"
 
 #: src/lib/hooks/useTimeAgo.ts:126
 msgid "{0, plural, one {# second} other {# seconds}}"
-msgstr ""
+msgstr "{0, plural, one {# saniye} other {# saniye}}"
 
 #: src/components/KnownFollowers.tsx:179
 #~ msgid "{0, plural, one {and # other} other {and # others}}"
-#~ msgstr ""
+#~ msgstr "{0, plural, one {ve # diğer} other {ve # diğer}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:398
 #: src/screens/Profile/Header/Metrics.tsx:23
 msgid "{0, plural, one {follower} other {followers}}"
-msgstr ""
+msgstr "{0, plural, one {takipçi} other {takipçi}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:402
 #: src/screens/Profile/Header/Metrics.tsx:27
 msgid "{0, plural, one {following} other {following}}"
-msgstr ""
+msgstr "{0, plural, one {takip ediliyor} other {takip ediliyor}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:312
 msgid "{0, plural, one {Like (# like)} other {Like (# likes)}}"
-msgstr ""
+msgstr "{0, plural, one {Beğen (# beğeni)} other {Beğen (# beğeni)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:439
 msgid "{0, plural, one {like} other {likes}}"
-msgstr ""
+msgstr "{0, plural, one {beğeni} other {beğeni}}"
 
 #: src/components/FeedCard.tsx:210
 #: src/view/com/feeds/FeedSourceCard.tsx:300
 msgid "{0, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{0, plural, one {# kullanıcı tarafından beğenildi} other {# kullanıcı tarafından beğenildi}}"
 
 #: src/screens/Profile/Header/Metrics.tsx:59
 msgid "{0, plural, one {post} other {posts}}"
-msgstr ""
+msgstr "{0, plural, one {gönderi} other {gönderi}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:419
 msgid "{0, plural, one {quote} other {quotes}}"
-msgstr ""
+msgstr "{0, plural, one {alıntı} other {alıntı}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:269
 msgid "{0, plural, one {Reply (# reply)} other {Reply (# replies)}}"
-msgstr ""
+msgstr "{0, plural, one {Yanıtla (# yanıt)} other {Yanıtla (# yanıt)}}" 
 
 #: src/view/com/post-thread/PostThreadItem.tsx:397
 msgid "{0, plural, one {repost} other {reposts}}"
-msgstr ""
+msgstr "{0, plural, one {yeniden paylaşım} other {yeniden paylaşım}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:308
 msgid "{0, plural, one {Unlike (# like)} other {Unlike (# likes)}}"
-msgstr ""
+msgstr "{0, plural, one {Beğenmekten Vazgeç (# beğeni)} other {Beğenmekten Vazgeç (# beğeni)}}"
 
 #. Pattern: {wordValue} in tags
 #: src/components/dialogs/MutedWords.tsx:475
 msgid "{0} <0>in <1>tags</1></0>"
-msgstr ""
+msgstr "{0} <0>etiketlerde</0>"
 
 #. Pattern: {wordValue} in text, tags
 #: src/components/dialogs/MutedWords.tsx:465
 msgid "{0} <0>in <1>text & tags</1></0>"
-msgstr ""
+msgstr "{0} <0>metin ve etiketlerde</0>"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:228
 msgid "{0} joined this week"
-msgstr ""
+msgstr "{0} bu hafta katıldı"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:637
 msgid "{0} of {1}"
-msgstr ""
+msgstr "{0} / {1}"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:467
 msgid "{0} people have used this starter pack!"
-msgstr ""
+msgstr "{0} kişi bu başlangıç paketini kullandı!"
 
 #: src/view/screens/ProfileList.tsx:286
 #~ msgid "{0} your feeds"
-#~ msgstr ""
+#~ msgstr "{0} beslemeleriniz"
 
 #: src/view/com/util/UserAvatar.tsx:425
 msgid "{0}'s avatar"
-msgstr ""
+msgstr "{0}'ın avatarı"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
-msgstr ""
+msgstr "{0}'ın favori beslemeleri ve kişileri - bana katılın!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:47
 msgid "{0}'s starter pack"
-msgstr ""
+msgstr "{0}'ın başlangıç paketi"
 
 #. How many days have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:158
 msgid "{0}d"
-msgstr ""
+msgstr "{0}g"
 
 #. How many hours have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:148
 msgid "{0}h"
-msgstr ""
+msgstr "{0}s"
 
 #. How many minutes have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:138
 msgid "{0}m"
-msgstr ""
+msgstr "{0}d"
 
 #. How many months have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:169
 msgid "{0}mo"
-msgstr ""
+msgstr "{0}ay"
 
 #. How many seconds have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:128
 msgid "{0}s"
-msgstr ""
+msgstr "{0}s"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{count, plural, one {# kullanıcı tarafından beğenildi} other {# kullanıcı tarafından beğenildi}}"
 
 #: src/lib/hooks/useTimeAgo.ts:69
 #~ msgid "{diff, plural, one {day} other {days}}"
-#~ msgstr ""
+#~ msgstr "{diff, plural, one {gün} other {gün}}"
 
 #: src/lib/hooks/useTimeAgo.ts:64
 #~ msgid "{diff, plural, one {hour} other {hours}}"
-#~ msgstr ""
+#~ msgstr "{diff, plural, one {saat} other {saat}}"
 
 #: src/lib/hooks/useTimeAgo.ts:59
 #~ msgid "{diff, plural, one {minute} other {minutes}}"
-#~ msgstr ""
+#~ msgstr "{diff, plural, one {dakika} other {dakika}}"
 
 #: src/lib/hooks/useTimeAgo.ts:75
 #~ msgid "{diff, plural, one {month} other {months}}"
-#~ msgstr ""
+#~ msgstr "{diff, plural, one {ay} other {ay}}"
 
 #: src/lib/hooks/useTimeAgo.ts:54
 #~ msgid "{diffSeconds, plural, one {second} other {seconds}}"
-#~ msgstr ""
+#~ msgstr "{diffSeconds, plural, one {saniye} other {saniye}}"
 
 #: src/lib/generate-starterpack.ts:108
 #: src/screens/StarterPack/Wizard/index.tsx:174
 msgid "{displayName}'s Starter Pack"
-msgstr ""
+msgstr "{displayName}'ın Başlangıç Paketi"
 
 #: src/screens/SignupQueued.tsx:207
 msgid "{estimatedTimeHrs, plural, one {hour} other {hours}}"
-msgstr ""
+msgstr "{estimatedTimeHrs, plural, one {saat} other {saat}}"
 
 #: src/screens/SignupQueued.tsx:213
 msgid "{estimatedTimeMins, plural, one {minute} other {minutes}}"
-msgstr ""
+msgstr "{estimatedTimeMins, plural, one {dakika} other {dakika}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:505
 #: src/screens/Profile/Header/Metrics.tsx:50
@@ -224,7 +224,7 @@ msgstr "{following} takip ediliyor"
 
 #: src/components/dms/dialogs/SearchablePeopleList.tsx:405
 msgid "{handle} can't be messaged"
-msgstr ""
+msgstr "{handle} mesaj gönderilemez"
 
 #: src/view/shell/desktop/RightNav.tsx:151
 #~ msgid "{invitesAvailable, plural, one {Invite codes: # available} other {Invite codes: # available}}"
@@ -242,7 +242,7 @@ msgstr ""
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:299
 #: src/view/screens/ProfileFeed.tsx:590
 msgid "{likeCount, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{likeCount, plural, one {# kullanıcı tarafından beğenildi} other {# kullanıcı tarafından beğenildi}}"
 
 #: src/view/shell/Drawer.tsx:466
 msgid "{numUnreadNotifications} unread"
@@ -250,15 +250,15 @@ msgstr "{numUnreadNotifications} okunmamış"
 
 #: src/components/NewskieDialog.tsx:116
 msgid "{profileName} joined Bluesky {0} ago"
-msgstr ""
+msgstr "{profileName} {0} önce Bluesky'e katıldı"
 
 #: src/components/NewskieDialog.tsx:111
 msgid "{profileName} joined Bluesky using a starter pack {0} ago"
-msgstr ""
+msgstr "{profileName} {0} önce bir başlangıç paketi kullanarak Bluesky'e katıldı"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:67
 #~ msgid "{value, plural, =0 {Show all replies} one {Show replies with at least # like} other {Show replies with at least # likes}}"
-#~ msgstr ""
+#~ msgstr "{value, plural, =0 {Tüm yanıtları göster} one {En az # beğeni olan yanıtları göster} other {En az # beğeni olan yanıtları göster}}"
 
 #: src/components/WhoCanReply.tsx:296
 #~ msgid "<0/> members"
@@ -266,49 +266,49 @@ msgstr ""
 
 #: src/screens/StarterPack/Wizard/index.tsx:485
 #~ msgid "<0>{0} </0>and<1> </1><2>{1} </2>are included in your starter pack"
-#~ msgstr ""
+#~ msgstr "<0>{0} </0>ve<1> </1><2>{1} </2>başlangıç paketinizde yer alıyor"
 
 #: src/screens/StarterPack/Wizard/index.tsx:466
 msgctxt "profiles"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
-msgstr ""
+msgstr "<0>{0}, </0><1>{1}, </1>ve {2, plural, one {# diğer} other {# diğer}} başlangıç paketinizde yer alıyor"
 
 #: src/screens/StarterPack/Wizard/index.tsx:519
 msgctxt "feeds"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
-msgstr ""
+msgstr "<0>{0}, </0><1>{1}, </1>ve {2, plural, one {# diğer} other {# diğer}} başlangıç paketinizde yer alıyor"
 
 #: src/screens/StarterPack/Wizard/index.tsx:497
 #~ msgid "<0>{0}, </0><1>{1}, </1>and {2} {3, plural, one {other} other {others}} are included in your starter pack"
-#~ msgstr ""
+#~ msgstr "<0>{0}, </0><1>{1}, </1>ve {2} {3, plural, one {diğer} other {diğer}} başlangıç paketinizde yer alıyor"
 
 #: src/view/shell/Drawer.tsx:109
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
-msgstr ""
+msgstr "<0>{0}</0> {1, plural, one {takipçi} other {takipçi}}"
 
 #: src/view/shell/Drawer.tsx:124
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
-msgstr ""
+msgstr "<0>{0}</0> {1, plural, one {takip ediliyor} other {takip ediliyor}}"
 
 #: src/screens/StarterPack/Wizard/index.tsx:507
 msgid "<0>{0}</0> and<1> </1><2>{1} </2>are included in your starter pack"
-msgstr ""
+msgstr "<0>{0}</0> ve<1> </1><2>{1} </2>başlangıç paketinizde yer alıyor"
 
 #: src/view/shell/Drawer.tsx:96
 #~ msgid "<0>{0}</0> following"
-#~ msgstr ""
+#~ msgstr "<0>{0}</0> takip ediliyor"
 
 #: src/screens/StarterPack/Wizard/index.tsx:500
 msgid "<0>{0}</0> is included in your starter pack"
-msgstr ""
+msgstr "<0>{0}</0> başlangıç paketinizde yer alıyor"
 
 #: src/components/WhoCanReply.tsx:274
 msgid "<0>{0}</0> members"
-msgstr ""
+msgstr "<0>{0}</0> üyeleri"
 
 #: src/components/ProfileHoverCard/index.web.tsx:437
 #~ msgid "<0>{followers} </0><1>{pluralizedFollowers}</1>"
-#~ msgstr ""
+#~ msgstr "<0>{followers} </0><1>{pluralizedFollowers}</1>"
 
 #: src/components/ProfileHoverCard/index.web.tsx:449
 #: src/screens/Profile/Header/Metrics.tsx:45
@@ -325,7 +325,7 @@ msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:135
 msgid "<0>Not Applicable.</0> This warning is only available for posts with media attached."
-msgstr ""
+msgstr "<0>Uygulanamaz.</0> Bu uyarı yalnızca medya ekli gönderiler için mevcuttur."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
 #~ msgid "<0>Welcome to</0><1>Bluesky</1>"
@@ -333,7 +333,7 @@ msgstr ""
 
 #: src/screens/StarterPack/Wizard/index.tsx:457
 msgid "<0>You</0> and<1> </1><2>{0} </2>are included in your starter pack"
-msgstr ""
+msgstr "<0>Siz</0> ve<1> </1><2>{0} </2>başlangıç paketinizde yer alıyor"
 
 #: src/screens/Profile/Header/Handle.tsx:50
 msgid "⚠Invalid Handle"
@@ -341,19 +341,19 @@ msgstr "⚠Geçersiz Kullanıcı Adı"
 
 #: src/components/dialogs/MutedWords.tsx:193
 msgid "24 hours"
-msgstr ""
+msgstr "24 saat"
 
 #: src/screens/Login/LoginForm.tsx:253
 msgid "2FA Confirmation"
-msgstr ""
+msgstr "2FA Onayı"
 
 #: src/components/dialogs/MutedWords.tsx:232
 msgid "30 days"
-msgstr ""
+msgstr "30 gün"
 
 #: src/components/dialogs/MutedWords.tsx:217
 msgid "7 days"
-msgstr ""
+msgstr "7 gün"
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
 #~ msgid "A content warning has been applied to this {0}."
@@ -361,7 +361,7 @@ msgstr ""
 
 #: src/tours/Tooltip.tsx:70
 #~ msgid "A help tooltip"
-#~ msgstr ""
+#~ msgstr "Bir yardım ipucu"
 
 #: src/lib/hooks/useOTAUpdate.ts:16
 #~ msgid "A new version of the app is available. Please update to continue using the app."
@@ -383,16 +383,16 @@ msgstr "Erişilebilirlik"
 
 #: src/view/screens/Settings/index.tsx:454
 msgid "Accessibility settings"
-msgstr ""
+msgstr "Erişilebilirlik ayarları"
 
 #: src/Navigation.tsx:318
 #: src/view/screens/AccessibilitySettings.tsx:73
 msgid "Accessibility Settings"
-msgstr ""
+msgstr "Erişilebilirlik Ayarları"
 
 #: src/components/moderation/LabelsOnMe.tsx:42
 #~ msgid "account"
-#~ msgstr ""
+#~ msgstr "hesap"
 
 #: src/screens/Login/LoginForm.tsx:179
 #: src/view/screens/Settings/index.tsx:315
@@ -406,7 +406,7 @@ msgstr "Hesap engellendi"
 
 #: src/view/com/profile/ProfileMenu.tsx:158
 msgid "Account followed"
-msgstr ""
+msgstr "Hesap takip edildi"
 
 #: src/view/com/profile/ProfileMenu.tsx:118
 msgid "Account muted"
@@ -436,7 +436,7 @@ msgstr "Hesap engeli kaldırıldı"
 
 #: src/view/com/profile/ProfileMenu.tsx:171
 msgid "Account unfollowed"
-msgstr ""
+msgstr "Hesap takipten çıkarıldı"
 
 #: src/view/com/profile/ProfileMenu.tsx:107
 msgid "Account unmuted"
@@ -451,11 +451,11 @@ msgstr "Ekle"
 
 #: src/screens/StarterPack/Wizard/index.tsx:568
 msgid "Add {0} more to continue"
-msgstr ""
+msgstr "Devam etmek için {0} daha ekleyin"
 
 #: src/components/StarterPack/Wizard/WizardListCard.tsx:59
 msgid "Add {displayName} to starter pack"
-msgstr ""
+msgstr "{displayName}'ı başlangıç paketine ekle"
 
 #: src/view/com/modals/SelfLabel.tsx:57
 msgid "Add a content warning"
@@ -487,7 +487,7 @@ msgstr "Alternatif metin ekle"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:109
 msgid "Add alt text (optional)"
-msgstr ""
+msgstr "Alternatif metin ekle (isteğe bağlı)"
 
 #: src/view/screens/AppPasswords.tsx:105
 #: src/view/screens/AppPasswords.tsx:147
@@ -514,27 +514,27 @@ msgstr "Uygulama Şifresi Ekle"
 
 #: src/components/dialogs/MutedWords.tsx:321
 msgid "Add mute word for configured settings"
-msgstr ""
+msgstr "Yapılandırılmış ayarlar için susturulan kelime ekle"
 
 #: src/components/dialogs/MutedWords.tsx:112
 msgid "Add muted words and tags"
-msgstr ""
+msgstr "Susturulan kelimeler ve etiketler ekle"
 
 #: src/screens/StarterPack/Wizard/index.tsx:197
 #~ msgid "Add people to your starter pack that you think others will enjoy following"
-#~ msgstr ""
+#~ msgstr "Diğerlerinin takip etmekten keyif alacağını düşündüğünüz kişileri başlangıç paketinize ekleyin"
 
 #: src/screens/Home/NoFeedsPinned.tsx:99
 msgid "Add recommended feeds"
-msgstr ""
+msgstr "Önerilen beslemeleri ekle"
 
 #: src/screens/StarterPack/Wizard/index.tsx:488
 msgid "Add some feeds to your starter pack!"
-msgstr ""
+msgstr "Başlangıç paketinize bazı beslemeler ekleyin!"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:41
 msgid "Add the default feed of only people you follow"
-msgstr ""
+msgstr "Yalnızca takip ettiğiniz kişilerin varsayılan beslemesini ekleyin"
 
 #: src/view/com/modals/ChangeHandle.tsx:410
 msgid "Add the following DNS record to your domain:"
@@ -542,7 +542,7 @@ msgstr "Alan adınıza aşağıdaki DNS kaydını ekleyin:"
 
 #: src/components/FeedCard.tsx:293
 msgid "Add this feed to your feeds"
-msgstr ""
+msgstr "Bu beslemeyi beslemelerinize ekleyin"
 
 #: src/view/com/profile/ProfileMenu.tsx:267
 #: src/view/com/profile/ProfileMenu.tsx:270
